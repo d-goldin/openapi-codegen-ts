@@ -4,7 +4,7 @@
     "lib": ["es6"],
     "rootDir": "src",
     "outDir": "dist",
-    "module": "commonjs",
+    "module": "esnext",
     "moduleResolution": "node",
     "strict": true,
     "declaration": true,
